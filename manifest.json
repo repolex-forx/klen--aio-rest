@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "aio-rest",
+  "versions": [
+    {
+      "commit": "d37bc4a43aaf68152ed0873a8037ce5c78606a66",
+      "parsed_at": "2026-10-20T21:24:38.700562+00:00",
+      "filetree": "filetree/d37bc4a43aaf68152ed0873a8037ce5c78606a66.nq.gz",
+      "blobs": [
+        "blob/9109dc60d087a20b62e10fcc75c0924c0e880b7b.nq.gz",
+        "blob/07dc45dec4393a23036b147c35bce5577a864474.nq.gz",
+        "blob/1c6a64dfc6544042269fac2ea38ebb41bc611404.nq.gz",
+        "blob/85e6bb5f80468f47d0f877885c49f352a4775d84.nq.gz",
+        "blob/68a2ba02d32a5f18fe1d9ec925b03cd5b650e996.nq.gz",
+        "blob/414eb0288be9bee8efe9f83d4ff83a736e46dd16.nq.gz",
+        "blob/f64ef6747aa62408dad428c4eafa17034cf97175.nq.gz",
+        "blob/85415880ea61575a9a2f9c35abf39cca4bfbd785.nq.gz",
+        "blob/41b229ef981b1b2b49f28b486d4a6a817a7c6d04.nq.gz",
+        "blob/8c9687899a78c06dcbe07cf26b90cf2d530e41e0.nq.gz",
+        "blob/68ee27bb43ce73ade48f962cb84bbb2ec7a528a6.nq.gz",
+        "blob/9df1304f6aa5cf5c63eca8f0258afa48ee1aa839.nq.gz",
+        "blob/98d5bf6ea7b671835231d7aaa907b3cfe268751e.nq.gz",
+        "blob/0bd3e2b04e2e8115f7465f3eb301f1da68a3187e.nq.gz",
+        "blob/b3a5a14b58cbdc488b0bcca29595cf2c255db54b.nq.gz",
+        "blob/3e47bc31dbcbf868e1135a6f55c8bb1f590b90d8.nq.gz",
+        "blob/20c850c6a393ec7d20a769f5602ead5f785d716d.nq.gz",
+        "blob/2d0b2994c46b02a5ebfe12582e049e044c291d31.nq.gz",
+        "blob/f3cfe49f7d22888f0f4f66b61c20faeab950429d.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/f67f0eee14cc6b4861da581d2f8601cf72873812.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
