@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "aio-rest",
+  "versions": [
+    {
+      "commit": "d37bc4a43aaf68152ed0873a8037ce5c78606a66",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:27:05.996471+00:00"
+    }
+  ]
+}
