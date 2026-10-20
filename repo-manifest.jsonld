@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/aio-rest/commit/d37bc4a43aaf68152ed0873a8037ce5c78606a66",
       "git:hexsha": "d37bc4a43aaf68152ed0873a8037ce5c78606a66",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/klen/aio-rest/commit/6453e561367450418e92d2b7a717ab332e461405",
